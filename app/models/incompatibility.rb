@@ -1,0 +1,2 @@
+class Incompatibility < ApplicationRecord
+end

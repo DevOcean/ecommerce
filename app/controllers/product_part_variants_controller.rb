@@ -1,0 +1,2 @@
+class ProductPartVariantsController < ApplicationController
+end

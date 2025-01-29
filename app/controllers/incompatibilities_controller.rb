@@ -1,0 +1,2 @@
+class IncompatibilitiesController < ApplicationController
+end

@@ -1,0 +1,2 @@
+class PartVariantsController < ApplicationController
+end
