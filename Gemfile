@@ -50,7 +50,7 @@ group :development, :test do
 
   gem 'factory_bot_rails', '~> 6.2'
 
-  gem 'byebug', '~> 11.1'
+  gem 'byebug', '~> 12.0'
 end
 
 
